@@ -1,5 +1,5 @@
 # Hellogger
-This is the keylogger python script. Written in Python and Visual Studio Code
+This is a keylogger python script. Written in Python and Visual Studio Code
 Cheers
 
 
